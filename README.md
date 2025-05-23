@@ -2,9 +2,9 @@
 
 Este repositório contém a resolução do Homework sobre Support Vector Machines (SVMs) para a disciplina de Inteligência Computacional.
 
-**Aluno:** Sérgio S. Monteiro
 **Professor:** Aldebaro Klautau
 **Disciplina:** Inteligência Computacional
+**Aluno:** Sérgio S. Monteiro
 **Data de Entrega:** 23/05/2025
 
 ## Descrição do Projeto
